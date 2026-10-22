@@ -127,3 +127,7 @@ python mirror_backup.py --config 其他設定檔.ini
 | 0 | 全部成功、已取消，或所有組別本來就相同 |
 | 1 | 有組別執行失敗、被中斷、驗證後仍有差異，或因設定問題被略過 |
 | 2 | 設定檔錯誤（整份拒絕執行） |
+
+## 版權
+
+Copyright © 2026 agan0617. All rights reserved. 保留所有權利，詳見 [LICENSE](LICENSE)。
